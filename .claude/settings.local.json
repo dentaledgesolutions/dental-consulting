@@ -3,7 +3,14 @@
     "allow": [
       "WebSearch",
       "mcp__plugin_context-mode_context-mode__ctx_fetch_and_index",
-      "mcp__plugin_context-mode_context-mode__ctx_search"
+      "mcp__plugin_context-mode_context-mode__ctx_search",
+      "Bash(git rm *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(gh repo *)",
+      "Bash(git -C /Users/erick/projects/dental-consulting status)",
+      "Bash(git -C /Users/erick/projects/dental-consulting diff)",
+      "Bash(git *)"
     ]
   }
 }
